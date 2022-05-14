@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/Weather-App/static/js/main.c9070875.chunk.js",
+    "main.js.map": "/Weather-App/static/js/main.c9070875.chunk.js.map",
+    "runtime-main.js": "/Weather-App/static/js/runtime-main.e261f9a6.js",
+    "runtime-main.js.map": "/Weather-App/static/js/runtime-main.e261f9a6.js.map",
+    "static/js/2.1b75ea94.chunk.js": "/Weather-App/static/js/2.1b75ea94.chunk.js",
+    "static/js/2.1b75ea94.chunk.js.map": "/Weather-App/static/js/2.1b75ea94.chunk.js.map",
+    "index.html": "/Weather-App/index.html",
+    "precache-manifest.cc1c4ecc230659a89bb9b7cb6f00c37a.js": "/Weather-App/precache-manifest.cc1c4ecc230659a89bb9b7cb6f00c37a.js",
+    "service-worker.js": "/Weather-App/service-worker.js",
+    "static/js/2.1b75ea94.chunk.js.LICENSE.txt": "/Weather-App/static/js/2.1b75ea94.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.png": "/Weather-App/static/media/athlete-small.f85903d4.png",
+    "static/media/athlete2.png": "/Weather-App/static/media/athlete2.6d53898d.png",
+    "static/media/clock.svg": "/Weather-App/static/media/clock.f5c64a5f.svg",
+    "static/media/diaphragm.svg": "/Weather-App/static/media/diaphragm.f6204831.svg",
+    "static/media/good-times2.jpg": "/Weather-App/static/media/good-times2.e149f59c.jpg",
+    "static/media/goodtimes-small.png": "/Weather-App/static/media/goodtimes-small.169a9b3a.png",
+    "static/media/home1.png": "/Weather-App/static/media/home1.99a18d77.png",
+    "static/media/home2.png": "/Weather-App/static/media/home2.ee6a6079.png",
+    "static/media/money.svg": "/Weather-App/static/media/money.d1749735.svg",
+    "static/media/teamwork.svg": "/Weather-App/static/media/teamwork.8c795ad5.svg",
+    "static/media/the-racer2.jpg": "/Weather-App/static/media/the-racer2.74873026.jpg",
+    "static/media/theracer-small.png": "/Weather-App/static/media/theracer-small.ca518f44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e261f9a6.js",
+    "static/js/2.1b75ea94.chunk.js",
+    "static/js/main.c9070875.chunk.js"
+  ]
+}
